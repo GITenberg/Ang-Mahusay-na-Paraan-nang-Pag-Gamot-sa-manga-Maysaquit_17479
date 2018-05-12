@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7413
     wikipedia: http://en.wikipedia.org/wiki/Samuel-Auguste_Tissot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17479#Ang-Mahusay-na-Paraan-nang-Pag-Gamot-sa-manga-Maysaquit
 gutenberg_issued: '2006-01-08'
 gutenberg_type: Text
 identifiers:
