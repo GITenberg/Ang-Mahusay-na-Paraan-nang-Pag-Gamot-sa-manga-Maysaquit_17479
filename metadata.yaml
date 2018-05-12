@@ -1,0 +1,43 @@
+_repo: Ang-Mahusay-na-Paraan-nang-Pag-Gamot-sa-manga-Maysaquit_17479
+_version: 0.1.0
+alternative_title: Avis au peuple sur sa santé. Tagalog
+contributor:
+  translator:
+    agent_name: Blanco, Manuel
+    alias: Blanco, Francisco Manuel
+    birthdate: 1778
+    deathdate: 1845
+    gutenberg_agent_id: '7414'
+    url: http://www.gutenberg.org/2009/agents/7414
+    wikipedia: http://fr.wikipedia.org/wiki/Francisco_Manuel_Blanco
+covers:
+- cover_type: archival
+  image_path: 17479-h/images/cover_b.jpg
+creator:
+  author:
+    agent_name: Tissot, S. A. D. (Samuel Auguste David)
+    aliases:
+    - Tissot, Samuel Auguste André David
+    - Tissot, Auguste
+    - Tissot, Samuel Auguste Andre David
+    - Tissot, Simon André
+    birthdate: 1728
+    deathdate: 1797
+    gutenberg_agent_id: '7413'
+    url: http://www.gutenberg.org/2009/agents/7413
+    wikipedia: http://en.wikipedia.org/wiki/Samuel-Auguste_Tissot
+description: ''
+gutenberg_issued: '2006-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17479'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Medicine, Popular -- Early works to 1800'
+- !lcsh 'Hygiene -- Handbooks, manuals, etc. -- Early works to 1800'
+title: Ang Mahusay na Paraan nang Pag-Gamot sa manga Maysaquit
+url: http://www.gutenberg.org/ebooks/17479
